@@ -1,1 +1,2 @@
-# Stardise2
+O Stardise é uma rede social voltado para o público que ama filmes e séries, onde é possível ficar por dentro sobre o que seus amigos estão assistindo, descobrir novos conteúdos, ter controle sobre quais episódios e filmes já assistiu e fazer anotações sobre determinado filme ou episódio que queira lembrar no futuro.
+![image](https://github.com/user-attachments/assets/4148b0eb-92a7-41a7-b664-828d334100b7)
